@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Nossa Senhora de Guardalupe",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                afirmacao: "A festa inclui ritos religiosos, comidas e bebidas, com conotação pagãs,principalmente na Brasília de Guardalupe, na cidade do México. "
             },
             {
                 texto: "Isso é maravilhoso!",
