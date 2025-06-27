@@ -6,10 +6,10 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado:Aqui estão algumas das principais festas e celebrações do México
+        enunciado:"Qual a principal festa religiosa do México"
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Nossa Senhora de Guardalupe",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
